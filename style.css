@@ -1,0 +1,10 @@
+body {
+	color: #141453;
+	font-family: sans-serif;
+	margin: 20px;
+}
+
+.header {
+	text-align: center;
+	list-style-type: none;
+}
