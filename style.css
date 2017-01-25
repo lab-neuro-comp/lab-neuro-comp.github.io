@@ -16,8 +16,9 @@ h1 {
 .header ul {
 	overflow: auto; 
 	list-style-type: none;
-	margin-left: 40%;
-	padding-left: 0;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
 }
 
 .header li {
