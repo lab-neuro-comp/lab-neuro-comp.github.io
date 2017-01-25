@@ -26,5 +26,9 @@ h1 {
 }
 
 .header li:hover {
-	background: lightgray;
+	background: #d0d0dc;
+}
+
+td {
+	padding: 5px;
 }
