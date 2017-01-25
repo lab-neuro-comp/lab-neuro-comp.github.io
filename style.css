@@ -2,9 +2,13 @@ body {
 	color: #141453;
 	font-family: sans-serif;
 	margin: 20px;
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 30px;
 }
 
 .header {
 	text-align: center;
-	list-style-type: none;
 }
