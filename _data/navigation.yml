@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Downloads"
+    url: /dowloads/
+  - title: "Sobre"
+    url: /about/
+  - title: "Colaboradores"
+    url: /collaborators/
