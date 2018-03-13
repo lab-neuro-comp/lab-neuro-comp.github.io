@@ -14,7 +14,7 @@ feature_row:
     excerpt: "<p></p><b>Email</b>: cristianoalvesjr@gmail.com <br> <b>Github</b>: @gishiikurisu  <br><br> <b>Telefone</b>: (61) 98534-9769"
   - image_path: "https://avatars1.githubusercontent.com/u/20935369?s=460&v=4"
     title: "Fabíola Fleury"
-    excerpt: " <p>Abaixo o capitalismo.</p> <b>Email</b>: enggabrielalbino@gmail.com <b>Github</b>: @gabrielalbino"
+    excerpt: " <p>Abaixo o capitalismo.</p> <b>Email</b>: fabiola.mfleury@gmail.com <br><b>Github</b>: @fabiolamfleury"
   - image_path: "https://avatars1.githubusercontent.com/u/30835149?s=460&v=4"
     alt: "placeholder image 4"
     title: "Gabriel Albino"
@@ -37,6 +37,3 @@ feature_row2:
 <h2>Responsável Técnico</h2>
 
 {% include feature_row id="feature_row2" type="center" %}
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
