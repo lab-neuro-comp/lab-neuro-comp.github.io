@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Colaboradores"
-permalink: /collaborators/
+permalink: collaborators/
 author_profile: false
 feature_row:
   - image_path: "https://avatars0.githubusercontent.com/u/14168541?s=460&v=4"

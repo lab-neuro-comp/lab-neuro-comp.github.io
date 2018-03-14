@@ -1,7 +1,7 @@
 ---
 title: "Laboratório de Neurociência e Comportamento"
 layout: single
-permalink: /help/
+permalink: help/
 sidebar:
   nav: "docs"
 excerpt: "Ferramentas utilizadas no Laboratório de Neurociência e comportamento para auxiliar pesquisas."
