@@ -48,8 +48,8 @@ testplatform_row:
   - image_path: /assets/images/testplatform.ico
     alt: "test-platform"
     title: "TestPlatform"
-    excerpt: '<a class="github-button" href="https://github.com/lab-neuro-comp/Test-Platform/releases/download/v3.0/TestPlatform_pt-BR.exe" data-icon="octicon-cloud-download" data-size="large" aria-label="Download lab-neuro-comp/Test-Platform on GitHub">Download pt-BR</a>
-              <a class="github-button" href="https://github.com/lab-neuro-comp/Test-Platform/releases/download/v3.0/TestPlatform_en-US.exe" data-icon="octicon-cloud-download" data-size="large" aria-label="Download lab-neuro-comp/Test-Platform on GitHub">Download en-US</a>
+    excerpt: '<a class="github-button" href="https://github.com/lab-neuro-comp/Test-Platform/releases/download/v3.1/TestPlatform_pt-BR.exe" data-icon="octicon-cloud-download" data-size="large" aria-label="Download lab-neuro-comp/Test-Platform on GitHub">Download pt-BR</a>
+              <a class="github-button" href="https://github.com/lab-neuro-comp/Test-Platform/releases/download/v3.1/TestPlatform_en-US.exe" data-icon="octicon-cloud-download" data-size="large" aria-label="Download lab-neuro-comp/Test-Platform on GitHub">Download en-US</a>
               <a class="github-button" href="https://github.com/lab-neuro-comp/Test-Platform" data-size="large" data-icon="octicon-star" data-show-count="true" aria-label="Star lab-neuro-comp/Test-Platform on GitHub">Star</a> <br><br>
               Plataforma de testes neuropsicológicos de diferentes paradigmas, tais como teste de tempo de reação e stroop.'
     url: "https://github.com/lab-neuro-comp/Test-Platform"
