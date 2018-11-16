@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Downloads"
-    url: /dowloads/
-  - title: "Ajuda"
-    url: /help/
+  - title: "Documentação"
+    url: /docs/
   - title: "Sobre"
     url: /about/
   - title: "Colaboradores"
@@ -11,10 +9,10 @@ main:
 
 
 docs:
-  - title: Getting Started
+  - title: TestPlatform
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "Guia de Início Rápido"
+        url: /docs/testplatform/quick-start-guide/
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"

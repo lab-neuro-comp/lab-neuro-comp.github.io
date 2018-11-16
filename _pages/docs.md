@@ -1,10 +1,10 @@
 ---
 title: "Laboratório de Neurociência e Comportamento"
 layout: single
-permalink: help/
+permalink: docs/
 sidebar:
   nav: "docs"
-excerpt: "Ferramentas utilizadas no Laboratório de Neurociência e comportamento para auxiliar pesquisas."
+excerpt: "Aqui consta a documentação dos softwares TestPlatform e Scalemate."
 intro:
   - excerpt: 'Em breve serão fornecidas páginas de ajuda e documentação relacionadas ao programa TestPlatform'
 
