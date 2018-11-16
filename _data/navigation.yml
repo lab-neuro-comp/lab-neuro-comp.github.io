@@ -13,14 +13,14 @@ docs:
     children:
       - title: "Guia de Início Rápido"
         url: /docs/testplatform/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
+      - title: "Guia de Uso Rápido"
+        url: /docs/testplatform/quick-use/
+      - title: "Tipos de Testes"
+        url: /docs/testplatform/test-paradigms/
       - title: "Upgrading"
         url: /docs/upgrading/
 
-  - title: Customization
+  - title: Scalemate
     children:
       - title: "Configuration"
         url: /docs/configuration/

@@ -1,6 +1,6 @@
 ---
 title: "Laboratório de Neurociência e Comportamento"
-layout: single
+layout: search
 permalink: docs/
 sidebar:
   nav: "docs"
